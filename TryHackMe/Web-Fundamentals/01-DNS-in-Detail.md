@@ -23,7 +23,7 @@ When I enter a URL into my browser, a DNS query is made to resolve the domain in
 ## 🧩 Reflections / Notes
 - I didn’t know how many DNS record types there were!
 - `dig` gives more detailed results than `nslookup`
-- DNS is usually cached for speed — but sometimes you need to flush it
+- DNS is usually cached for speed but sometimes you need to flush it
 
 ## 🏁 Completed: ✅
 
